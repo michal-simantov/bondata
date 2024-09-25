@@ -30,6 +30,6 @@ NOTE: the commands below written to run from auto_scale
 
 ## Running Tests
 Run tests using pytest:
-    '''
+    ```
     pytest
-    '''
+    ```
